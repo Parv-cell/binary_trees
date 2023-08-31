@@ -4,7 +4,7 @@
 * binary_tree_postorder - goes through binary tree using post-order traversal
 *
 * Description:
-* @tree: pointer to root node of the tree to be travsersed
+* @tree: pointer to root node of the tree
 * @func: pointer to a function to print node data
 */
 
